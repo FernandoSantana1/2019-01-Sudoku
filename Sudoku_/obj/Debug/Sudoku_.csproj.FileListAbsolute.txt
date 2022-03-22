@@ -1,0 +1,10 @@
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\bin\Debug\Sudoku_.exe.config
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\bin\Debug\Sudoku_.exe
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\bin\Debug\Sudoku_.pdb
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.Form1.resources
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.exe
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\Sudoku_\Sudoku_\obj\Debug\Sudoku_.pdb
